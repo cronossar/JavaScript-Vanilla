@@ -1,3 +1,31 @@
 https://www.youtube.com/watch?v=8yIcHqTG7bU
 https://www.youtube.com/watch?v=kH4UbdlBZHs
 https://www.youtube.com/watch?v=tcPLunlJCtY
+
+
+ACCIONES PARA PONER EN MARCHA
+
+Instalar API si no lo hizo (carpeta apicrudjs)
+usar CMD: ingresar a carpeta. 
+usar: node app
+Deberia verse así:
+PS C:\Users\DELL\Documents\GitHub\JavaScript-Vanilla\App-Crud\apicrudjs> node app
+Servidor Ok en puerto:3000
+¡Conexión exitosa a la base de datos!
+
+----------------
+Instala Express
+Abre una terminal o consola en la raíz de tu proyecto (donde está ubicado el archivo package.json) y ejecuta el siguiente comando para instalar Express:
+
+bash
+Copiar código
+npm install express
+Este comando agregará Express a las dependencias de tu proyecto y descargará el paquete a la carpeta node_modules.
+--------------
+Luego desde VSCode e ingresando a la misma carpeta deberá correr: npm install
+Se debería crear la carpeta: node_modules
+
+Asegurarse también que este creada la base de datos, tablas
+
+
+
